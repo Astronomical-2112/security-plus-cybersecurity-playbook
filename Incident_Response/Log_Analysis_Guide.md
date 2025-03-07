@@ -1,0 +1,3 @@
+When reading logs, it is best to search for the timeframe that the event happened in.  This should allow you to sort through what you are looking for quickly.
+From there, you can search for anything you are specifically looking for, any suspisious activity, any errors that may have occured or anything else of the sort.
+After that you should look at the surrounding context for the writing, what else was going on around the same time and what that means in the context of what you are looking for.
