@@ -22,4 +22,22 @@ You can use it by typing in apt install xyz (xyz filling in for whatever you wan
 by typing sudo apt install xyz.  Update by typing sudo apt update and then after sudo apt upgrade.  
 
 - nano
-nano is a terminal text editor.  It excells at letting you create shell scripts very quickly without needing to open a text editor
+nano is a terminal text editor.  It excells at letting you create shell scripts very quickly without needing to open a text editor. 
+
+- man
+man prints off the manual for whatever command you want to use. Typing in "man cd" will print the user manual for the command cd.
+
+- info
+info is a more detailed version of man.  Some distros don't ship info, as it is less popular, 
+as while it has more information, man still gives you plenty of information and it being shorter makes it an easier read.
+
+- echo
+echo prints text in the command line.  if you typed in "echo Hello World" you would see Hello World printed, 
+you can use different forms of flow control to control when stuff is printed.  This is very useful for shell scripts.
+
+- cd
+cd is a command that changes the directory that bash is currently accessing.  You can type in a relative path, or an absolute path.
+
+- cp 
+cp is a command that lets you copy a file from one location to another.  You first type in cp,
+and then you type in the file you want to be copied, and then you type in the path of the location you want it to be copied to.
