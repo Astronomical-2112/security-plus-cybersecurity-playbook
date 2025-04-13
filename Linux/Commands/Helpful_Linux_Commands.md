@@ -41,3 +41,21 @@ cd is a command that changes the directory that bash is currently accessing.  Yo
 - cp 
 cp is a command that lets you copy a file from one location to another.  You first type in cp,
 and then you type in the file you want to be copied, and then you type in the path of the location you want it to be copied to.
+
+- tar
+tar is a command that allows the user to compress an entire directory into one file.  tar -c lets you create a new archive. 
+The first argument is for what you want to archive, and the second is used to point to where you want the archive to be output to.
+tar -cfz can be uses to compress the archive as well using gzip.
+
+- gzip
+gzip is a file compressor that only compresses one file.  Unlike other compression programs it can't compress multiple files. 
+Compressed files replace the uncompressed one.  
+
+- mkdir
+mkdir makes a directory in the current directory, or at the path specified.
+
+- bzip2 
+bzip2 is an alternate compression tool that works similarly to tar. 
+
+- rm
+rm is a program for deleting a file, rm -rf can remove a directory
