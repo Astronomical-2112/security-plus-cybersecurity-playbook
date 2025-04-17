@@ -58,4 +58,10 @@ mkdir makes a directory in the current directory, or at the path specified.
 bzip2 is an alternate compression tool that works similarly to tar. 
 
 - rm
-rm is a program for deleting a file, rm -rf can remove a directory
+rm is a program for deleting a file, rm -rf can remove a directory.
+
+- grep
+grep is used to search for text inside files.
+
+- cat
+cat prints out text output from a file. 
