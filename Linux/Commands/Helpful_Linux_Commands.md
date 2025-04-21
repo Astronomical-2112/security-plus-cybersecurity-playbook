@@ -65,3 +65,12 @@ grep is used to search for text inside files.
 
 - cat
 cat prints out text output from a file. 
+
+- lspci
+displays information about pci devices.
+
+- lscpu 
+displays information about your cpu
+
+- jobs
+displays active jobs going on
