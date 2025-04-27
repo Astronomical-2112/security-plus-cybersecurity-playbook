@@ -74,3 +74,19 @@ displays information about your cpu
 
 - jobs
 displays active jobs going on
+
+- groupadd
+adds a defined user to a group
+
+- ifconfig
+ifconfig, or interface config is used for configuring network interfaces
+
+- w
+displays information on every user logged into a computer and what they are doing
+
+- getent
+short for get enteries, it works similarly to cat but also can get user info from accounts that may not be stored locally
+
+- head
+lets you preview the contents of a logfile by showing you the start of it
+
