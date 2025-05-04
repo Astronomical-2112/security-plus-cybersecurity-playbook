@@ -90,3 +90,8 @@ short for get enteries, it works similarly to cat but also can get user info fro
 - head
 lets you preview the contents of a logfile by showing you the start of it
 
+- chmod
+chmod lets you change file permissions including if it can be read or written to, and even set the file to be executable
+
+- chown
+chown lets you change who owns a file if you are logged in as root
